@@ -1,0 +1,21 @@
+{
+  "name": "mastercard-access",
+  "version": "1.0.4",
+  "description": "Emita boletos facilmente utilizando apenas as suas credenciais do MeuAcesso Mastercard.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "boleto",
+    "api",
+    "acesso",
+    "mastercard"
+  ],
+  "author": "Muryllo Pimenta",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.0",
+    "puppeteer": "^5.5.0"
+  }
+}
