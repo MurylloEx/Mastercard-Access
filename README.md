@@ -1,3 +1,5 @@
+<h1 align="center">Mastercard Access</h1>
+
 <p align="center">
     <img src="https://nodei.co/npm/mastercard-access.png?downloads=true&downloadRank=true&stars=true"/>
 </p>
@@ -9,8 +11,6 @@
 <img src="https://badgen.net/npm/types/mastercard-access"/>
 <img src="https://badgen.net/badge/author/MurylloEx/red?icon=label"/>
 </p>
-
-# Mastercard Access
 
 Essa simples e prática biblioteca realiza a autenticação em sua conta Mastercard Acesso e enfim provê uma camada de APIs para emitir um boleto para você.
 
